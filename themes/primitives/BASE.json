@@ -1,0 +1,18 @@
+{
+  "primitives": {
+    "color": {
+      "BASE": {
+        "ocean": {
+          "ocean": {
+            "value": "#00807B",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
+  "PromoBlue": {
+    "value": "#22B9D8",
+    "type": "color"
+  }
+}

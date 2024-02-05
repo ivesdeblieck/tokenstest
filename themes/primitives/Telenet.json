@@ -1,0 +1,20 @@
+{
+  "primitives": {
+    "color": {
+      "telenet": {
+        "yellow": {
+          "yellow-500": {
+            "value": "#FFC421",
+            "type": "color"
+          }
+        },
+        "white": {
+          "white": {
+            "value": "#FFF",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}

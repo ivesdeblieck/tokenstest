@@ -1,0 +1,58 @@
+[
+  {
+    "id": "d3390e6b7cf228047d077e610f593d4fa1b2a2f0",
+    "name": "Telenet",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/Telenet": "enabled",
+      "primitives/Telenet": "enabled",
+      "primitives/core": "enabled"
+    },
+    "$figmaVariableReferences": {
+      "semantic.brand-primary": "c3f37adc581050ed8734b602d13354cc962aa758",
+      "primitives.color.telenet.yellow.yellow-500": "f549400f83838d4cfbd0d1e5ec568f9cc05541e2",
+      "primitives.color.telenet.white.white": "ac007a56cc12c1cfb4c225fe009cb2eb40a1e11f"
+    },
+    "group": "Brands",
+    "$figmaCollectionId": "VariableCollectionId:12:15",
+    "$figmaModeId": "12:2"
+  },
+  {
+    "id": "69c761b561c5d9843b82380331c5d744fac201ef",
+    "name": "BASE",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "primitives/BASE": "enabled",
+      "primitives/core": "source",
+      "semantic/BASE": "enabled"
+    },
+    "$figmaVariableReferences": {
+      "semantic.brand-primary": "c3f37adc581050ed8734b602d13354cc962aa758",
+      "primitives.color.BASE.ocean.ocean": "08580eef7dd67907dfb34b761542c0f4295b2cf0",
+      "PromoBlue": "82a9c5785c8a1ce783f4074e48f565b00576559e"
+    },
+    "group": "Brands",
+    "$figmaCollectionId": "VariableCollectionId:12:15",
+    "$figmaModeId": "12:3"
+  },
+  {
+    "id": "f8d5c1f887428fa16f051ac780bdb4d8cd8ca16c",
+    "name": "Light Mode",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {},
+    "group": "Theme",
+    "$figmaCollectionId": "VariableCollectionId:12:21",
+    "$figmaModeId": "12:4",
+    "$figmaVariableReferences": {}
+  },
+  {
+    "id": "67c8db538845fe6a2d0ae49f381ab154d42c447c",
+    "name": "Dark Mode",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {},
+    "group": "Theme",
+    "$figmaCollectionId": "VariableCollectionId:12:21",
+    "$figmaModeId": "12:5",
+    "$figmaVariableReferences": {}
+  }
+]

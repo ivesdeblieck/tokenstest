@@ -1,0 +1,8 @@
+{
+  "semantic": {
+    "brand-primary": {
+      "value": "{primitives.color.BASE.ocean.ocean}",
+      "type": "color"
+    }
+  }
+}

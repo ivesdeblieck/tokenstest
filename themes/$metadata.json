@@ -1,0 +1,9 @@
+{
+  "tokenSetOrder": [
+    "primitives/core",
+    "primitives/Telenet",
+    "primitives/BASE",
+    "semantic/Telenet",
+    "semantic/BASE"
+  ]
+}

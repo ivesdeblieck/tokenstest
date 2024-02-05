@@ -1,0 +1,12 @@
+{
+  "semantic": {
+    "brand-primary": {
+      "value": "{primitives.color.telenet.yellow.yellow-500}",
+      "type": "color"
+    }
+  },
+  "spacing-none": {
+    "value": "{size-0}",
+    "type": "sizing"
+  }
+}
