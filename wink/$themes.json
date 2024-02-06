@@ -4,41 +4,18 @@
     "name": "Telenet",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core-wink": "enabled",
+      "core-wink": "source",
       "brands/telenet": "enabled"
     },
     "$figmaVariableReferences": {
-      "color.brand.color-brand": "40e27e6e094f8c6a73159af5efe75c3bfa8a0203",
-      "color.background.color-background": "330db415f59f40d8e6d1f6bcd146f187de0ccb90",
-      "color.background.color-background-info": "3639921ad55f57e61aa9bb5dca01d2b481203772",
-      "color.border.color-border": "5319486efe88cef4ab7749a03d9f064acd12163e",
-      "color.border.color-border-subtle": "8cd69e3869f08072640f70282c830505264887a2",
-      "primitives.telenet.yellow.yellow-500": "61c40f6166b1930ef5e4244978aa736e11f3bf93",
-      "primitives.telenet.primary.lemon": "837e2ea2d796fe4766853b58731cb05e48d3ee5c",
-      "primitives.telenet.primary.darkbrown": "35f041a5aa7d25218a1ae3d525b010982126ddcb",
-      "primitives.telenet.secondary.brightblue": "658d4cc6b3a5f2da0f3af6dd191511776c8c2ad3",
-      "primitives.telenet.secondary.lila": "d9efb4fd4d13a0a07b45e219d3e41ac8b71ef8fb",
-      "primitives.base.primary.ocean": "303ac20ba846a7814c428d4e931f79756287fe84",
-      "primitives.base.primary.promoblue": "c027a0d5d473c78463a24f55693d52ef2992f784",
-      "primitives.base.secondary.fountainblue": "072009b62c0e77b2774b38d3af7e7822aa687cef",
-      "primitives.base.secondary.darkocean": "a9484399f49b8bcdd33492eea8c2a247440410e8",
-      "primitives.system.orange16": "cb8c1cc413f169ea53cf5b6532fef03183272928",
-      "primitives.system.orange100": "ec09b69937422582d6f793ed721919aa865e0642",
-      "primitives.system.blue16": "7c41d1c6e8eadc53ae50335a3e3dc195a6c59d03",
-      "primitives.system.blue100": "596a218ca75a81589419f8e776a6a37a010e818a",
-      "primitives.telenet.neutrals.neutral04": "fc03307c6dd37dea0d3279a14c40f06df2d6910a",
-      "primitives.telenet.neutrals.neutral08": "f5c8e6eab014d3bdc20781d6d8ad10443f08aed1",
-      "primitives.telenet.primary.white": "c86d42ab05aefc730f1c1a3589a2b52421f11907",
-      "primitives.telenet.neutrals.neutral24": "417d12f08c5073de5d26ee9995449a75e9d7ee4a",
-      "size-0": "6bd3961088f9846924ddd03e5c9176d09dfd6978",
-      "size-0125": "c01b9bcd5a50598505693ca4f991af1a1d9b7ba1",
-      "size-025": "0a02e08e2c0c161fdb0c787917855f98b6c939ef",
-      "size-050": "fc47be93077b6610da3afb957c87e49dfd0d24ef",
-      "size-075": "a323fca80c087ead5d471a2c7de0e247187ad4f9",
-      "primitives.streamz.red": "8d63b7739032d3fe198a42273e9f8df160917cc4"
+      "color.brand.color-brand": "f03fc2417cfd533b821164dadaa3d1315f953e07",
+      "color.background.color-background": "487d3a6b80126add5760c3e300133308538aff5f",
+      "color.background.color-background-info": "62d45ffa17e269fe636c7fe62b552834b14a20f2",
+      "color.border.color-border": "48e4a2abf20af92f416f0548285dbf588184d5d1",
+      "color.border.color-border-subtle": "56ac0d154d721c2ea67998feaf433118a88df457"
     },
-    "$figmaCollectionId": "VariableCollectionId:35:193",
-    "$figmaModeId": "35:22",
+    "$figmaCollectionId": "VariableCollectionId:35:277",
+    "$figmaModeId": "35:35",
     "group": "Brands"
   },
   {
@@ -50,22 +27,23 @@
       "brands/base": "enabled"
     },
     "$figmaVariableReferences": {
-      "color.brand.color-brand": "40e27e6e094f8c6a73159af5efe75c3bfa8a0203"
+      "color.brand.color-brand": "f03fc2417cfd533b821164dadaa3d1315f953e07"
     },
-    "group": "Brands",
-    "$figmaCollectionId": "VariableCollectionId:35:193",
-    "$figmaModeId": "35:23"
+    "$figmaCollectionId": "VariableCollectionId:35:277",
+    "$figmaModeId": "35:36",
+    "group": "Brands"
   },
   {
     "id": "de383c14dbb57b51670cf01836086932b98505a2",
     "name": "Desktop",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "themes/desktop": "enabled"
+      "themes/desktop": "enabled",
+      "core-wink": "source"
     },
     "$figmaVariableReferences": {},
-    "$figmaCollectionId": "VariableCollectionId:35:222",
-    "$figmaModeId": "35:24",
+    "$figmaCollectionId": "VariableCollectionId:35:283",
+    "$figmaModeId": "35:37",
     "group": "Devices"
   },
   {
@@ -73,11 +51,12 @@
     "name": "mobile",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "themes/mobile": "enabled"
+      "themes/mobile": "enabled",
+      "core-wink": "source"
     },
     "$figmaVariableReferences": {},
-    "$figmaCollectionId": "VariableCollectionId:35:222",
-    "$figmaModeId": "35:25",
+    "$figmaCollectionId": "VariableCollectionId:35:283",
+    "$figmaModeId": "35:38",
     "group": "Devices"
   },
   {
@@ -89,69 +68,51 @@
       "brands/telenet": "enabled",
       "brands/streamz": "enabled"
     },
-    "$figmaCollectionId": "VariableCollectionId:35:193",
-    "$figmaModeId": "35:26",
+    "$figmaCollectionId": "VariableCollectionId:35:277",
+    "$figmaModeId": "35:39",
     "$figmaVariableReferences": {
-      "color.brand.color-brand": "40e27e6e094f8c6a73159af5efe75c3bfa8a0203",
-      "color.background.color-background": "330db415f59f40d8e6d1f6bcd146f187de0ccb90",
-      "color.background.color-background-info": "3639921ad55f57e61aa9bb5dca01d2b481203772",
-      "color.border.color-border": "5319486efe88cef4ab7749a03d9f064acd12163e",
-      "color.border.color-border-subtle": "8cd69e3869f08072640f70282c830505264887a2"
+      "color.brand.color-brand": "f03fc2417cfd533b821164dadaa3d1315f953e07",
+      "color.background.color-background": "487d3a6b80126add5760c3e300133308538aff5f",
+      "color.background.color-background-info": "62d45ffa17e269fe636c7fe62b552834b14a20f2",
+      "color.border.color-border": "48e4a2abf20af92f416f0548285dbf588184d5d1",
+      "color.border.color-border-subtle": "56ac0d154d721c2ea67998feaf433118a88df457"
     },
     "group": "Brands"
   },
   {
-    "id": "4ca76ac57a4346888d93c81c871ed08eb6b4bdd2",
-    "name": "Play Sports",
+    "id": "abae3c373229071c0202b1bb9b313b92803c1d06",
+    "name": "core",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core-wink": "enabled",
-      "brands/telenet": "enabled",
-      "brands/playsports": "enabled"
+      "core-wink": "enabled"
     },
-    "group": "Brands",
-    "$figmaCollectionId": "VariableCollectionId:35:193",
-    "$figmaModeId": "35:27",
+    "$figmaCollectionId": "VariableCollectionId:35:284",
+    "$figmaModeId": "35:40",
     "$figmaVariableReferences": {
-      "color.brand.color-brand": "40e27e6e094f8c6a73159af5efe75c3bfa8a0203",
-      "color.background.color-background": "330db415f59f40d8e6d1f6bcd146f187de0ccb90",
-      "color.background.color-background-info": "3639921ad55f57e61aa9bb5dca01d2b481203772",
-      "color.border.color-border": "5319486efe88cef4ab7749a03d9f064acd12163e",
-      "color.border.color-border-subtle": "8cd69e3869f08072640f70282c830505264887a2",
-      "primitives.telenet.yellow.yellow-500": "61c40f6166b1930ef5e4244978aa736e11f3bf93",
-      "primitives.telenet.primary.lemon": "837e2ea2d796fe4766853b58731cb05e48d3ee5c",
-      "primitives.telenet.primary.darkbrown": "35f041a5aa7d25218a1ae3d525b010982126ddcb",
-      "primitives.telenet.secondary.brightblue": "658d4cc6b3a5f2da0f3af6dd191511776c8c2ad3",
-      "primitives.telenet.secondary.lila": "d9efb4fd4d13a0a07b45e219d3e41ac8b71ef8fb",
-      "primitives.base.primary.ocean": "303ac20ba846a7814c428d4e931f79756287fe84",
-      "primitives.base.primary.promoblue": "c027a0d5d473c78463a24f55693d52ef2992f784",
-      "primitives.base.secondary.fountainblue": "072009b62c0e77b2774b38d3af7e7822aa687cef",
-      "primitives.base.secondary.darkocean": "a9484399f49b8bcdd33492eea8c2a247440410e8",
-      "primitives.system.orange16": "cb8c1cc413f169ea53cf5b6532fef03183272928",
-      "primitives.system.orange100": "ec09b69937422582d6f793ed721919aa865e0642",
-      "primitives.system.blue16": "7c41d1c6e8eadc53ae50335a3e3dc195a6c59d03",
-      "primitives.system.blue100": "596a218ca75a81589419f8e776a6a37a010e818a",
-      "primitives.telenet.neutrals.neutral04": "fc03307c6dd37dea0d3279a14c40f06df2d6910a",
-      "primitives.telenet.neutrals.neutral08": "f5c8e6eab014d3bdc20781d6d8ad10443f08aed1",
-      "primitives.telenet.primary.white": "c86d42ab05aefc730f1c1a3589a2b52421f11907",
-      "primitives.telenet.neutrals.neutral24": "417d12f08c5073de5d26ee9995449a75e9d7ee4a",
-      "size-0": "6bd3961088f9846924ddd03e5c9176d09dfd6978",
-      "size-0125": "c01b9bcd5a50598505693ca4f991af1a1d9b7ba1",
-      "size-025": "0a02e08e2c0c161fdb0c787917855f98b6c939ef",
-      "size-050": "fc47be93077b6610da3afb957c87e49dfd0d24ef",
-      "size-075": "a323fca80c087ead5d471a2c7de0e247187ad4f9",
-      "primitives.streamz.red": "8d63b7739032d3fe198a42273e9f8df160917cc4"
-    }
-  },
-  {
-    "id": "8944463501edc90d3584ec2b4fc4aa503ed467ba",
-    "name": "Netflix",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "core-wink": "source",
-      "brands/telenet": "enabled",
-      "brands/netflix": "enabled"
+      "primitives.telenet.yellow.yellow-500": "cff8f0c3fa71c6d8f2f1a1fc87ac767574f44daf",
+      "primitives.telenet.primary.lemon": "5c2a9be5605876e33cd1b38b583e2e523b1f0c1d",
+      "primitives.telenet.primary.darkbrown": "86d1cb137cb6ed4a8a2eeb3f3d0bbc0e81680c67",
+      "primitives.telenet.secondary.brightblue": "97ed12b02d77ee601d352c390a899170b9e692bc",
+      "primitives.telenet.secondary.lila": "f35ee2011f56dc25ad705ed0d298f6da2ca60c53",
+      "primitives.base.primary.ocean": "23896b145894e5667fb003802c7f02138c2be8aa",
+      "primitives.base.primary.promoblue": "21f4430573a175a3672a2b1d1a52974cc0c2dde0",
+      "primitives.base.secondary.fountainblue": "71d3c15432b84f4d65b01f0a92f0b1b3d1b48c1e",
+      "primitives.base.secondary.darkocean": "1fc05612bb95a2c4f8e85ded368948de0efe58b1",
+      "primitives.system.orange16": "1e41e33050ccb5a2556de8233ac460dbe8576a41",
+      "primitives.system.orange100": "194179dd23563a91541df0b2fa5f07f7e6c1c75e",
+      "primitives.system.blue16": "0e5f6f83858b003e8fe1d0aed91ca58517d9b1fc",
+      "primitives.system.blue100": "a15540269537a590c37739c354243ebe792abcf2",
+      "primitives.telenet.neutrals.neutral04": "74957ba80b561f95ee07d9ab533b007de5fca9b2",
+      "primitives.telenet.neutrals.neutral08": "1c86b5fcd2326e3ae5025f0b8eac3fa8e67b4e67",
+      "primitives.telenet.primary.white": "6f0c784dc6041def58166023d02a14adc16edf81",
+      "primitives.telenet.neutrals.neutral24": "c8a4630b9e1cf2058c440e4c629517ff645bba8b",
+      "size-0": "5069a7c4ca618113ef41f5879d7d09b798925eac",
+      "size-0125": "ba18b1ab768a8a6fc71248cd8a3a8d3809ef481f",
+      "size-025": "a61999974b17c9560a5346571c6b717cc197765b",
+      "size-050": "5d8bf41cf2fb27808794bf71a3fc09bb4515e206",
+      "size-075": "1d93a9011b8e6717f106e0c254dfb3fe14621679",
+      "primitives.streamz.red": "8a781fef0e796e7853f194e8273ba0cc820ba02d"
     },
-    "group": "Brands"
+    "group": "Wink"
   }
 ]
