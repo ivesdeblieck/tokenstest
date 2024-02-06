@@ -1,0 +1,18 @@
+{
+  "color": {
+    "brand": {
+      "color-brand": {
+        "value": "{primitives.base.primary.ocean}",
+        "type": "color"
+      }
+    }
+  },
+  "font": {
+    "family": {
+      "primary": {
+        "value": "AkagiPro",
+        "type": "fontFamilies"
+      }
+    }
+  }
+}

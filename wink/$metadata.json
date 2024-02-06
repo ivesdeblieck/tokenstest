@@ -1,9 +1,11 @@
 {
   "tokenSetOrder": [
-    "global/wink-colors",
-    "global/wink-dimensions",
-    "brand-colors/brand-telenet",
-    "brand-colors/brand-base",
+    "core-wink",
+    "brands/telenet",
+    "brands/base",
+    "brands/streamz",
+    "brands/playsports",
+    "brands/netflix",
     "themes/desktop",
     "themes/mobile"
   ]

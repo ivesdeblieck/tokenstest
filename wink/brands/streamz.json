@@ -2,7 +2,7 @@
   "color": {
     "brand": {
       "color-brand": {
-        "value": "{color.base.primary.ocean}",
+        "value": "{primitives.streamz.red}",
         "type": "color"
       }
     }
