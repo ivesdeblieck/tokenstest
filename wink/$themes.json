@@ -1,0 +1,68 @@
+[
+  {
+    "id": "d3390e6b7cf228047d077e610f593d4fa1b2a2f0",
+    "name": "Telenet",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global/wink-colors": "enabled",
+      "brand-colors/brand-telenet": "enabled"
+    },
+    "$figmaVariableReferences": {
+      "color.brand.color-brand": "a94437c9c91044377092e269986fc38ea5ea7027",
+      "color.telenet.yellow.yellow-500": "dcff2753e6cf08188ac5ffb07d2d30ee62bab3d1",
+      "color.telenet.primary.lemon": "0a1537379bb18fb9a85194079c9b105ea83d8e3e",
+      "color.telenet.primary.darkbrown": "5d76d89939fe38ba1ff75eb812f2c10208a46952",
+      "color.telenet.secondary.brightblue": "3be275818472704d5d353d9fbb069e24423ba913",
+      "color.telenet.secondary.lila": "005878af0033bc6de787d833a50922917b183000",
+      "color.base.primary.ocean": "4300e31b0387528b3fe140466d82903244149f49",
+      "color.base.primary.promoblue": "d6a9bb55b1af2d5a129711e8f977ae34c280358c",
+      "color.base.secondary.fountainblue": "8380dbc1c7c04f924ca4890cc91ac860bfd6e4f9",
+      "color.base.secondary.darkocean": "16dfdc6182749c4256a6fa0f8be3ee1f7ec2da8a",
+      "color.system.orange16": "2da8a6dcc2d7db026bea8ea032d7a50f65313e17",
+      "color.system.orange100": "91366ad79e81f86a84a1179035a3d3749f93b5c0",
+      "color.system.blue16": "d39da4d3c9be6b1b1dc04d2e8b8940189044ae95",
+      "color.system.blue100": "ad4f53c07bfa0e53f26d48c064ea7bec79876066",
+      "color.telenet.neutrals.neutral04": "bca227848c37ae94aca8822cec2c589bf19e82cb",
+      "color.telenet.neutrals.neutral08": "305a2326bf81cb0aa254c235096ef62f2f17a785"
+    },
+    "$figmaCollectionId": "VariableCollectionId:34:16",
+    "$figmaModeId": "34:0",
+    "group": "Brands"
+  },
+  {
+    "id": "69c761b561c5d9843b82380331c5d744fac201ef",
+    "name": "BASE",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global/wink-colors": "source",
+      "brand-colors/brand-base": "enabled"
+    },
+    "$figmaVariableReferences": {
+      "color.brand.color-brand": "a94437c9c91044377092e269986fc38ea5ea7027"
+    },
+    "group": "Brands",
+    "$figmaCollectionId": "VariableCollectionId:34:16",
+    "$figmaModeId": "34:1"
+  },
+  {
+    "id": "de383c14dbb57b51670cf01836086932b98505a2",
+    "name": "Desktop",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global/wink-colors": "enabled",
+      "brand-colors/brand-telenet": "enabled",
+      "themes/desktop": "enabled"
+    },
+    "group": "Devices"
+  },
+  {
+    "id": "97344c7d8349615763128e3a65a48a8823e1f5f2",
+    "name": "mobile",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global/wink-colors": "enabled",
+      "brand-colors/brand-telenet": "enabled"
+    },
+    "group": "Devices"
+  }
+]

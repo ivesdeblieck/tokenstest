@@ -1,0 +1,90 @@
+{
+  "color": {
+    "telenet": {
+      "yellow": {
+        "yellow-500": {
+          "value": "#FFC421",
+          "type": "color"
+        }
+      },
+      "primary": {
+        "lemon": {
+          "value": "#FFF7C7",
+          "type": "color"
+        },
+        "darkbrown": {
+          "value": "#291D18",
+          "type": "color"
+        },
+        "white": {
+          "value": "#FFFFFF",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "brightblue": {
+          "value": "#7291B5",
+          "type": "color"
+        },
+        "lila": {
+          "value": "#AA81A8",
+          "type": "color"
+        }
+      },
+      "neutrals": {
+        "neutral04": {
+          "value": "#F7F7F6",
+          "type": "color"
+        },
+        "neutral08": {
+          "value": "#EEEDED",
+          "type": "color"
+        },
+        "neutral24": {
+          "value": "#CCC9C8",
+          "type": "color"
+        }
+      }
+    },
+    "base": {
+      "primary": {
+        "ocean": {
+          "value": "#00807B",
+          "type": "color"
+        },
+        "promoblue": {
+          "value": "#22B9D8",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "fountainblue": {
+          "value": "#60B0B2",
+          "type": "color"
+        },
+        "darkocean": {
+          "value": "#004A47",
+          "type": "color"
+        }
+      }
+    },
+    "system": {
+      "orange16": {
+        "value": "rgba(255,149,0,0.16)",
+        "type": "color"
+      },
+      "orange100": {
+        "value": "#FF9500",
+        "type": "color"
+      },
+      "blue16": {
+        "value": "rgba(35,115,230,0.16)",
+        "type": "color"
+      },
+      "blue100": {
+        "value": "#2373E6",
+        "type": "color"
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "color": {
+    "brand": {
+      "color-brand": {
+        "value": "{color.telenet.yellow.yellow-500}",
+        "type": "color"
+      }
+    },
+    "background": {
+      "color-background": {
+        "value": "{color.telenet.primary.white}",
+        "type": "color"
+      },
+      "color-background-info": {
+        "value": "{color.system.blue16}",
+        "type": "color"
+      }
+    },
+    "border": {
+      "color-border": {
+        "value": "{color.telenet.neutrals.neutral24}",
+        "type": "color"
+      },
+      "color-border-subtle": {
+        "value": "{color.telenet.neutrals.neutral08}",
+        "type": "color"
+      }
+    }
+  }
+}

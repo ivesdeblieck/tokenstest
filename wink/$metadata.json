@@ -1,0 +1,10 @@
+{
+  "tokenSetOrder": [
+    "global/wink-colors",
+    "global/wink-dimensions",
+    "brand-colors/brand-telenet",
+    "brand-colors/brand-base",
+    "themes/desktop",
+    "themes/mobile"
+  ]
+}

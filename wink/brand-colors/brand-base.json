@@ -1,0 +1,10 @@
+{
+  "color": {
+    "brand": {
+      "color-brand": {
+        "value": "{color.base.primary.ocean}",
+        "type": "color"
+      }
+    }
+  }
+}
