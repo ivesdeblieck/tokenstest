@@ -1,0 +1,128 @@
+{
+  "primitives": {
+    "telenet": {
+      "yellow": {
+        "yellow-500": {
+          "value": "#FFC421",
+          "type": "color"
+        }
+      },
+      "primary": {
+        "lemon": {
+          "value": "#FFF7C7",
+          "type": "color"
+        },
+        "darkbrown": {
+          "value": "#291D18",
+          "type": "color"
+        },
+        "white": {
+          "value": "#FFFFFF",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "brightblue": {
+          "value": "#7291B5",
+          "type": "color"
+        },
+        "lila": {
+          "value": "#AA81A8",
+          "type": "color"
+        }
+      },
+      "neutrals": {
+        "neutral04": {
+          "value": "#F7F7F6",
+          "type": "color"
+        },
+        "neutral08": {
+          "value": "#EEEDED",
+          "type": "color"
+        },
+        "neutral24": {
+          "value": "#CCC9C8",
+          "type": "color"
+        }
+      }
+    },
+    "base": {
+      "primary": {
+        "ocean": {
+          "value": "#00807B",
+          "type": "color"
+        },
+        "promoblue": {
+          "value": "#22B9D8",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "fountainblue": {
+          "value": "#60B0B2",
+          "type": "color"
+        },
+        "darkocean": {
+          "value": "#004A47",
+          "type": "color"
+        }
+      }
+    },
+    "system": {
+      "orange16": {
+        "value": "rgba(255,149,0,0.16)",
+        "type": "color"
+      },
+      "orange100": {
+        "value": "#FF9500",
+        "type": "color"
+      },
+      "blue16": {
+        "value": "rgba(35,115,230,0.16)",
+        "type": "color"
+      },
+      "blue100": {
+        "value": "#2373E6",
+        "type": "color"
+      }
+    },
+    "streamz": {
+      "red": {
+        "value": "#ff0a5a",
+        "type": "color"
+      }
+    }
+  },
+  "size-0": {
+    "value": "0",
+    "type": "sizing"
+  },
+  "size-0125": {
+    "value": "1",
+    "type": "sizing"
+  },
+  "size-025": {
+    "value": "2",
+    "type": "sizing"
+  },
+  "size-050": {
+    "value": "4",
+    "type": "sizing"
+  },
+  "size-075": {
+    "value": "6",
+    "type": "sizing"
+  },
+  "opacity-0": {
+    "value": "0%",
+    "type": "opacity"
+  },
+  "opacity-10": {
+    "value": "10%",
+    "type": "opacity"
+  },
+  "opacity-20": {
+    "value": "20%",
+    "type": "opacity"
+  }
+}

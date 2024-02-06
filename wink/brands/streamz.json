@@ -1,0 +1,10 @@
+{
+  "color": {
+    "brand": {
+      "color-brand": {
+        "value": "{primitives.streamz.red}",
+        "type": "color"
+      }
+    }
+  }
+}

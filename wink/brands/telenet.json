@@ -1,0 +1,42 @@
+{
+  "color": {
+    "brand": {
+      "color-brand": {
+        "value": "{primitives.telenet.yellow.yellow-500}",
+        "type": "color"
+      }
+    },
+    "background": {
+      "color-background": {
+        "value": "{primitives.telenet.primary.white}",
+        "type": "color"
+      },
+      "color-background-info": {
+        "value": "{primitives.system.blue16}",
+        "type": "color"
+      }
+    },
+    "border": {
+      "color-border": {
+        "value": "{primitives.telenet.neutrals.neutral24}",
+        "type": "color"
+      },
+      "color-border-subtle": {
+        "value": "{primitives.telenet.neutrals.neutral08}",
+        "type": "color"
+      }
+    }
+  },
+  "font": {
+    "family": {
+      "primary": {
+        "value": "Telenet Albra",
+        "type": "fontFamilies"
+      },
+      "secondary": {
+        "value": "Telenet Albra Serif",
+        "type": "fontFamilies"
+      }
+    }
+  }
+}

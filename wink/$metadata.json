@@ -1,0 +1,12 @@
+{
+  "tokenSetOrder": [
+    "core-wink",
+    "brands/telenet",
+    "brands/base",
+    "brands/streamz",
+    "brands/playsports",
+    "brands/netflix",
+    "themes/desktop",
+    "themes/mobile"
+  ]
+}
