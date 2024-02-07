@@ -34,6 +34,10 @@
           "watermelon": {
             "value": "#E16A5B",
             "type": "color"
+          },
+          "turquoise": {
+            "value": "#209D91",
+            "type": "color"
           }
         },
         "neutrals": {
