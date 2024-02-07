@@ -30,6 +30,10 @@
           "lila": {
             "value": "#AA81A8",
             "type": "color"
+          },
+          "watermelon": {
+            "value": "#E16A5B",
+            "type": "color"
           }
         },
         "neutrals": {
