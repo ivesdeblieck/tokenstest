@@ -38,6 +38,10 @@
           "olivine": {
             "value": "#749645",
             "type": "color"
+          },
+          "jeansblue": {
+            "value": "#1A9AAA",
+            "type": "color"
           }
         },
         "neutrals": {
