@@ -2,7 +2,7 @@
   "color": {
     "brand": {
       "color-brand": {
-        "value": "{primitives.streamz.red}",
+        "value": "{core.colors.streamz.red}",
         "type": "color"
       }
     }

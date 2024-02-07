@@ -2,7 +2,7 @@
   "color": {
     "brand": {
       "color-brand": {
-        "value": "{primitives.base.primary.ocean}",
+        "value": "{core.colors.base.primary.ocean}",
         "type": "color"
       }
     }
